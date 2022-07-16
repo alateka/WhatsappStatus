@@ -1,4 +1,4 @@
-<footer style="margin-top: 55px;">
+<footer style="position: fixed; width: 100%; left: 0; bottom: 0;">
     <div>
         <p style="margin-bottom: 9px">Hecho con ❤️‍</p>
         <p style="margin-bottom: 9px">por Alberto Pérez Fructuoso</p>
