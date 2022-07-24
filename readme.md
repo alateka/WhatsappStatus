@@ -3,7 +3,6 @@ En una oficina donde varias personas necesitan usar una cuenta de WhatsApp para 
 - "Hay alguien metido en el WhatsApp"
 - "Voy a meterme en el WhatsApp"
 - "Tener cuidado y avisarme, que estoy con un cliente."
-- "Como me cacéis de la sesión del WhatsApp os ......."
 
 Esta web es una herramienta en la cual los empleados pueden saber en cada momento si se está usando o no WhatsApp para no sacarse de la sesión los unos a los otros.
 
@@ -21,4 +20,4 @@ Instrucciones de uso contando con que todos los empleados tienen la web abierta 
 ## Uso de la BD:
 - Se hace uso de PDO para el manejo de la BD.
 - No existe ningún apartado de "Registrar Usuarios".
-- De mometo los usuarios de crean en la tabla users de la base de datos en SQLite ubicada en el directorio libs del proyecto. Por lo que se necesita cualquier cliente de BD compatible con SQLite, como DBeaver o SQLite Browser.
+- De momento, los usuarios se crean en la tabla "users" de la base de datos en SQLite ubicada en el directorio libs del proyecto. Por lo que se necesita cualquier cliente de BD compatible con SQLite, como DBeaver o SQLite Browser.
